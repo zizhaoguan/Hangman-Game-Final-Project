@@ -1,6 +1,6 @@
-# Group3_HangmanGame
+HangmanGame
 
-Student: Ge Ou, Christopher Perez, Kevin Orellana, Zizhao Guan	
+
 
 This is a hangman game, players paly with a superhero which will give them extral power to win the game.
 
